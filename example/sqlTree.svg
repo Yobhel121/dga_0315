@@ -1,0 +1,339 @@
+<svg width="1600px" height="629px"
+ viewBox="0.00 0.00 1376.86 540.99" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 536.99)">
+<title>example1</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-536.99 1372.86,-536.99 1372.86,4 -4,4"/>
+<!-- TOK_QUERY\n26 -->
+<g id="node1" class="node">
+<title>TOK_QUERY\n26</title>
+<ellipse fill="none" stroke="blue" cx="469.86" cy="-503.57" rx="70.89" ry="29.33"/>
+<text text-anchor="middle" x="469.86" y="-507.77" font-family="Times,serif" font-size="14.00">TOK_QUERY</text>
+<text text-anchor="middle" x="469.86" y="-490.97" font-family="Times,serif" font-size="14.00">26</text>
+</g>
+<!-- TOK_FROM\n5 -->
+<g id="node2" class="node">
+<title>TOK_FROM\n5</title>
+<ellipse fill="none" stroke="red" cx="392.86" cy="-408.74" rx="64.81" ry="29.33"/>
+<text text-anchor="middle" x="392.86" y="-412.94" font-family="Times,serif" font-size="14.00" fill="blue">TOK_FROM</text>
+<text text-anchor="middle" x="392.86" y="-396.14" font-family="Times,serif" font-size="14.00" fill="blue">5</text>
+</g>
+<!-- TOK_QUERY\n26&#45;&gt;TOK_FROM\n5 -->
+<g id="edge1" class="edge">
+<title>TOK_QUERY\n26&#45;&gt;TOK_FROM\n5</title>
+<path fill="none" stroke="black" d="M447.17,-475.22C439.19,-465.6 430.12,-454.66 421.7,-444.51"/>
+<polygon fill="black" stroke="black" points="424.2,-442.04 415.12,-436.58 418.81,-446.51 424.2,-442.04"/>
+</g>
+<!-- TOK_INSERT\n25 -->
+<g id="node7" class="node">
+<title>TOK_INSERT\n25</title>
+<ellipse fill="none" stroke="red" cx="566.86" cy="-408.74" rx="71.49" ry="29.33"/>
+<text text-anchor="middle" x="566.86" y="-412.94" font-family="Times,serif" font-size="14.00" fill="blue">TOK_INSERT</text>
+<text text-anchor="middle" x="566.86" y="-396.14" font-family="Times,serif" font-size="14.00" fill="blue">25</text>
+</g>
+<!-- TOK_QUERY\n26&#45;&gt;TOK_INSERT\n25 -->
+<g id="edge2" class="edge">
+<title>TOK_QUERY\n26&#45;&gt;TOK_INSERT\n25</title>
+<path fill="none" stroke="black" d="M497.4,-476.22C508.15,-465.93 520.6,-454.01 531.97,-443.13"/>
+<polygon fill="black" stroke="black" points="534.45,-445.6 539.26,-436.16 529.61,-440.55 534.45,-445.6"/>
+</g>
+<!-- TOK_TABREF\n4 -->
+<g id="node3" class="node">
+<title>TOK_TABREF\n4</title>
+<ellipse fill="none" stroke="red" cx="212.86" cy="-313.91" rx="74.61" ry="29.33"/>
+<text text-anchor="middle" x="212.86" y="-318.11" font-family="Times,serif" font-size="14.00" fill="blue">TOK_TABREF</text>
+<text text-anchor="middle" x="212.86" y="-301.31" font-family="Times,serif" font-size="14.00" fill="blue">4</text>
+</g>
+<!-- TOK_FROM\n5&#45;&gt;TOK_TABREF\n4 -->
+<g id="edge3" class="edge">
+<title>TOK_FROM\n5&#45;&gt;TOK_TABREF\n4</title>
+<path fill="none" stroke="black" d="M351.11,-386.21C325.83,-373.17 293.33,-356.41 266.19,-342.41"/>
+<polygon fill="black" stroke="black" points="267.7,-339.26 257.21,-337.78 264.49,-345.48 267.7,-339.26"/>
+</g>
+<!-- TOK_TABNAME\n3 -->
+<g id="node4" class="node">
+<title>TOK_TABNAME\n3</title>
+<ellipse fill="none" stroke="red" cx="112.86" cy="-219.08" rx="85.58" ry="29.33"/>
+<text text-anchor="middle" x="112.86" y="-223.28" font-family="Times,serif" font-size="14.00" fill="blue">TOK_TABNAME</text>
+<text text-anchor="middle" x="112.86" y="-206.48" font-family="Times,serif" font-size="14.00" fill="blue">3</text>
+</g>
+<!-- TOK_TABREF\n4&#45;&gt;TOK_TABNAME\n3 -->
+<g id="edge4" class="edge">
+<title>TOK_TABREF\n4&#45;&gt;TOK_TABNAME\n3</title>
+<path fill="none" stroke="black" d="M184.47,-286.56C173.48,-276.35 160.77,-264.55 149.13,-253.75"/>
+<polygon fill="black" stroke="black" points="151.38,-251.06 141.67,-246.82 146.62,-256.19 151.38,-251.06"/>
+</g>
+<!-- gmall\n1 -->
+<g id="node5" class="node">
+<title>gmall\n1</title>
+<ellipse fill="none" stroke="red" cx="33.86" cy="-124.25" rx="33.72" ry="29.33"/>
+<text text-anchor="middle" x="33.86" y="-128.45" font-family="Times,serif" font-size="14.00" fill="blue">gmall</text>
+<text text-anchor="middle" x="33.86" y="-111.65" font-family="Times,serif" font-size="14.00" fill="blue">1</text>
+</g>
+<!-- TOK_TABNAME\n3&#45;&gt;gmall\n1 -->
+<g id="edge5" class="edge">
+<title>TOK_TABNAME\n3&#45;&gt;gmall\n1</title>
+<path fill="none" stroke="black" d="M89.59,-190.73C80.36,-179.88 69.7,-167.36 60.19,-156.18"/>
+<polygon fill="black" stroke="black" points="62.65,-153.68 53.5,-148.33 57.32,-158.21 62.65,-153.68"/>
+</g>
+<!-- t2\n2 -->
+<g id="node6" class="node">
+<title>t2\n2</title>
+<ellipse fill="none" stroke="red" cx="112.86" cy="-124.25" rx="27" ry="29.33"/>
+<text text-anchor="middle" x="112.86" y="-128.45" font-family="Times,serif" font-size="14.00" fill="blue">t2</text>
+<text text-anchor="middle" x="112.86" y="-111.65" font-family="Times,serif" font-size="14.00" fill="blue">2</text>
+</g>
+<!-- TOK_TABNAME\n3&#45;&gt;t2\n2 -->
+<g id="edge6" class="edge">
+<title>TOK_TABNAME\n3&#45;&gt;t2\n2</title>
+<path fill="none" stroke="black" d="M112.86,-189.47C112.86,-181.44 112.86,-172.57 112.86,-164.06"/>
+<polygon fill="black" stroke="black" points="116.36,-163.92 112.86,-153.92 109.36,-163.92 116.36,-163.92"/>
+</g>
+<!-- TOK_DESTINATION\n9 -->
+<g id="node8" class="node">
+<title>TOK_DESTINATION\n9</title>
+<ellipse fill="none" stroke="red" cx="457.86" cy="-313.91" rx="102.65" ry="29.33"/>
+<text text-anchor="middle" x="457.86" y="-318.11" font-family="Times,serif" font-size="14.00" fill="blue">TOK_DESTINATION</text>
+<text text-anchor="middle" x="457.86" y="-301.31" font-family="Times,serif" font-size="14.00" fill="blue">9</text>
+</g>
+<!-- TOK_INSERT\n25&#45;&gt;TOK_DESTINATION\n9 -->
+<g id="edge7" class="edge">
+<title>TOK_INSERT\n25&#45;&gt;TOK_DESTINATION\n9</title>
+<path fill="none" stroke="black" d="M536.5,-381.88C524.4,-371.57 510.3,-359.57 497.42,-348.6"/>
+<polygon fill="black" stroke="black" points="499.46,-345.74 489.58,-341.92 494.92,-351.07 499.46,-345.74"/>
+</g>
+<!-- TOK_SELECT\n19 -->
+<g id="node12" class="node">
+<title>TOK_SELECT\n19</title>
+<ellipse fill="none" stroke="red" cx="675.86" cy="-313.91" rx="72.8" ry="29.33"/>
+<text text-anchor="middle" x="675.86" y="-318.11" font-family="Times,serif" font-size="14.00" fill="blue">TOK_SELECT</text>
+<text text-anchor="middle" x="675.86" y="-301.31" font-family="Times,serif" font-size="14.00" fill="blue">19</text>
+</g>
+<!-- TOK_INSERT\n25&#45;&gt;TOK_SELECT\n19 -->
+<g id="edge8" class="edge">
+<title>TOK_INSERT\n25&#45;&gt;TOK_SELECT\n19</title>
+<path fill="none" stroke="black" d="M597.22,-381.88C609.64,-371.31 624.15,-358.95 637.3,-347.75"/>
+<polygon fill="black" stroke="black" points="639.94,-350.1 645.28,-340.95 635.4,-344.77 639.94,-350.1"/>
+</g>
+<!-- TOK_WHERE\n24 -->
+<g id="node22" class="node">
+<title>TOK_WHERE\n24</title>
+<ellipse fill="none" stroke="red" cx="1011.86" cy="-313.91" rx="71.58" ry="29.33"/>
+<text text-anchor="middle" x="1011.86" y="-318.11" font-family="Times,serif" font-size="14.00" fill="blue">TOK_WHERE</text>
+<text text-anchor="middle" x="1011.86" y="-301.31" font-family="Times,serif" font-size="14.00" fill="blue">24</text>
+</g>
+<!-- TOK_INSERT\n25&#45;&gt;TOK_WHERE\n24 -->
+<g id="edge9" class="edge">
+<title>TOK_INSERT\n25&#45;&gt;TOK_WHERE\n24</title>
+<path fill="none" stroke="black" d="M629.67,-394.64C711.03,-377.67 852.57,-348.14 938.69,-330.17"/>
+<polygon fill="black" stroke="black" points="939.57,-333.56 948.65,-328.1 938.14,-326.71 939.57,-333.56"/>
+</g>
+<!-- TOK_TAB\n8 -->
+<g id="node9" class="node">
+<title>TOK_TAB\n8</title>
+<ellipse fill="none" stroke="red" cx="314.86" cy="-219.08" rx="56.3" ry="29.33"/>
+<text text-anchor="middle" x="314.86" y="-223.28" font-family="Times,serif" font-size="14.00" fill="blue">TOK_TAB</text>
+<text text-anchor="middle" x="314.86" y="-206.48" font-family="Times,serif" font-size="14.00" fill="blue">8</text>
+</g>
+<!-- TOK_DESTINATION\n9&#45;&gt;TOK_TAB\n8 -->
+<g id="edge10" class="edge">
+<title>TOK_DESTINATION\n9&#45;&gt;TOK_TAB\n8</title>
+<path fill="none" stroke="black" d="M417.65,-286.8C399.02,-274.71 376.87,-260.33 357.9,-248.02"/>
+<polygon fill="black" stroke="black" points="359.73,-245.04 349.44,-242.53 355.92,-250.91 359.73,-245.04"/>
+</g>
+<!-- TOK_TABNAME\n7 -->
+<g id="node10" class="node">
+<title>TOK_TABNAME\n7</title>
+<ellipse fill="none" stroke="red" cx="243.86" cy="-124.25" rx="85.58" ry="29.33"/>
+<text text-anchor="middle" x="243.86" y="-128.45" font-family="Times,serif" font-size="14.00" fill="blue">TOK_TABNAME</text>
+<text text-anchor="middle" x="243.86" y="-111.65" font-family="Times,serif" font-size="14.00" fill="blue">7</text>
+</g>
+<!-- TOK_TAB\n8&#45;&gt;TOK_TABNAME\n7 -->
+<g id="edge11" class="edge">
+<title>TOK_TAB\n8&#45;&gt;TOK_TABNAME\n7</title>
+<path fill="none" stroke="black" d="M294.32,-191.23C287.16,-181.86 278.99,-171.18 271.35,-161.19"/>
+<polygon fill="black" stroke="black" points="273.95,-158.82 265.09,-153.01 268.39,-163.07 273.95,-158.82"/>
+</g>
+<!-- t1\n6 -->
+<g id="node11" class="node">
+<title>t1\n6</title>
+<ellipse fill="none" stroke="red" cx="243.86" cy="-29.42" rx="27" ry="29.33"/>
+<text text-anchor="middle" x="243.86" y="-33.62" font-family="Times,serif" font-size="14.00" fill="blue">t1</text>
+<text text-anchor="middle" x="243.86" y="-16.82" font-family="Times,serif" font-size="14.00" fill="blue">6</text>
+</g>
+<!-- TOK_TABNAME\n7&#45;&gt;t1\n6 -->
+<g id="edge12" class="edge">
+<title>TOK_TABNAME\n7&#45;&gt;t1\n6</title>
+<path fill="none" stroke="black" d="M243.86,-94.64C243.86,-86.61 243.86,-77.74 243.86,-69.22"/>
+<polygon fill="black" stroke="black" points="247.36,-69.09 243.86,-59.09 240.36,-69.09 247.36,-69.09"/>
+</g>
+<!-- TOK_SELEXPR\n12 -->
+<g id="node13" class="node">
+<title>TOK_SELEXPR\n12</title>
+<ellipse fill="none" stroke="red" cx="484.86" cy="-219.08" rx="79.5" ry="29.33"/>
+<text text-anchor="middle" x="484.86" y="-223.28" font-family="Times,serif" font-size="14.00" fill="blue">TOK_SELEXPR</text>
+<text text-anchor="middle" x="484.86" y="-206.48" font-family="Times,serif" font-size="14.00" fill="blue">12</text>
+</g>
+<!-- TOK_SELECT\n19&#45;&gt;TOK_SELEXPR\n12 -->
+<g id="edge13" class="edge">
+<title>TOK_SELECT\n19&#45;&gt;TOK_SELEXPR\n12</title>
+<path fill="none" stroke="black" d="M630.11,-290.67C603.32,-277.65 569.29,-261.11 540.9,-247.31"/>
+<polygon fill="black" stroke="black" points="542.42,-244.16 531.9,-242.94 539.36,-250.46 542.42,-244.16"/>
+</g>
+<!-- TOK_SELEXPR\n15 -->
+<g id="node16" class="node">
+<title>TOK_SELEXPR\n15</title>
+<ellipse fill="none" stroke="red" cx="688.86" cy="-219.08" rx="79.5" ry="29.33"/>
+<text text-anchor="middle" x="688.86" y="-223.28" font-family="Times,serif" font-size="14.00" fill="blue">TOK_SELEXPR</text>
+<text text-anchor="middle" x="688.86" y="-206.48" font-family="Times,serif" font-size="14.00" fill="blue">15</text>
+</g>
+<!-- TOK_SELECT\n19&#45;&gt;TOK_SELEXPR\n15 -->
+<g id="edge14" class="edge">
+<title>TOK_SELECT\n19&#45;&gt;TOK_SELEXPR\n15</title>
+<path fill="none" stroke="black" d="M679.87,-284.3C680.99,-276.27 682.23,-267.4 683.43,-258.89"/>
+<polygon fill="black" stroke="black" points="686.92,-259.14 684.85,-248.75 679.99,-258.17 686.92,-259.14"/>
+</g>
+<!-- TOK_SELEXPR\n18 -->
+<g id="node19" class="node">
+<title>TOK_SELEXPR\n18</title>
+<ellipse fill="none" stroke="red" cx="904.86" cy="-219.08" rx="79.5" ry="29.33"/>
+<text text-anchor="middle" x="904.86" y="-223.28" font-family="Times,serif" font-size="14.00" fill="blue">TOK_SELEXPR</text>
+<text text-anchor="middle" x="904.86" y="-206.48" font-family="Times,serif" font-size="14.00" fill="blue">18</text>
+</g>
+<!-- TOK_SELECT\n19&#45;&gt;TOK_SELEXPR\n18 -->
+<g id="edge15" class="edge">
+<title>TOK_SELECT\n19&#45;&gt;TOK_SELEXPR\n18</title>
+<path fill="none" stroke="black" d="M726.12,-292.54C760.44,-278.62 806.15,-260.09 842.76,-245.25"/>
+<polygon fill="black" stroke="black" points="844.38,-248.37 852.34,-241.37 841.75,-241.88 844.38,-248.37"/>
+</g>
+<!-- TOK_TABLE_OR_COL\n11 -->
+<g id="node14" class="node">
+<title>TOK_TABLE_OR_COL\n11</title>
+<ellipse fill="none" stroke="red" cx="458.86" cy="-124.25" rx="111.88" ry="29.33"/>
+<text text-anchor="middle" x="458.86" y="-128.45" font-family="Times,serif" font-size="14.00" fill="blue">TOK_TABLE_OR_COL</text>
+<text text-anchor="middle" x="458.86" y="-111.65" font-family="Times,serif" font-size="14.00" fill="blue">11</text>
+</g>
+<!-- TOK_SELEXPR\n12&#45;&gt;TOK_TABLE_OR_COL\n11 -->
+<g id="edge16" class="edge">
+<title>TOK_SELEXPR\n12&#45;&gt;TOK_TABLE_OR_COL\n11</title>
+<path fill="none" stroke="black" d="M476.92,-189.72C474.6,-181.43 472.02,-172.23 469.56,-163.44"/>
+<polygon fill="black" stroke="black" points="472.91,-162.44 466.84,-153.75 466.17,-164.32 472.91,-162.44"/>
+</g>
+<!-- a\n10 -->
+<g id="node15" class="node">
+<title>a\n10</title>
+<ellipse fill="none" stroke="red" cx="458.86" cy="-29.42" rx="27" ry="29.33"/>
+<text text-anchor="middle" x="458.86" y="-33.62" font-family="Times,serif" font-size="14.00" fill="blue">a</text>
+<text text-anchor="middle" x="458.86" y="-16.82" font-family="Times,serif" font-size="14.00" fill="blue">10</text>
+</g>
+<!-- TOK_TABLE_OR_COL\n11&#45;&gt;a\n10 -->
+<g id="edge17" class="edge">
+<title>TOK_TABLE_OR_COL\n11&#45;&gt;a\n10</title>
+<path fill="none" stroke="black" d="M458.86,-94.64C458.86,-86.61 458.86,-77.74 458.86,-69.22"/>
+<polygon fill="black" stroke="black" points="462.36,-69.09 458.86,-59.09 455.36,-69.09 462.36,-69.09"/>
+</g>
+<!-- TOK_TABLE_OR_COL\n14 -->
+<g id="node17" class="node">
+<title>TOK_TABLE_OR_COL\n14</title>
+<ellipse fill="none" stroke="red" cx="700.86" cy="-124.25" rx="111.88" ry="29.33"/>
+<text text-anchor="middle" x="700.86" y="-128.45" font-family="Times,serif" font-size="14.00" fill="blue">TOK_TABLE_OR_COL</text>
+<text text-anchor="middle" x="700.86" y="-111.65" font-family="Times,serif" font-size="14.00" fill="blue">14</text>
+</g>
+<!-- TOK_SELEXPR\n15&#45;&gt;TOK_TABLE_OR_COL\n14 -->
+<g id="edge18" class="edge">
+<title>TOK_SELEXPR\n15&#45;&gt;TOK_TABLE_OR_COL\n14</title>
+<path fill="none" stroke="black" d="M692.56,-189.47C693.6,-181.44 694.74,-172.57 695.84,-164.06"/>
+<polygon fill="black" stroke="black" points="699.34,-164.29 697.15,-153.92 692.4,-163.39 699.34,-164.29"/>
+</g>
+<!-- b\n13 -->
+<g id="node18" class="node">
+<title>b\n13</title>
+<ellipse fill="none" stroke="red" cx="700.86" cy="-29.42" rx="27" ry="29.33"/>
+<text text-anchor="middle" x="700.86" y="-33.62" font-family="Times,serif" font-size="14.00" fill="blue">b</text>
+<text text-anchor="middle" x="700.86" y="-16.82" font-family="Times,serif" font-size="14.00" fill="blue">13</text>
+</g>
+<!-- TOK_TABLE_OR_COL\n14&#45;&gt;b\n13 -->
+<g id="edge19" class="edge">
+<title>TOK_TABLE_OR_COL\n14&#45;&gt;b\n13</title>
+<path fill="none" stroke="black" d="M700.86,-94.64C700.86,-86.61 700.86,-77.74 700.86,-69.22"/>
+<polygon fill="black" stroke="black" points="704.36,-69.09 700.86,-59.09 697.36,-69.09 704.36,-69.09"/>
+</g>
+<!-- TOK_TABLE_OR_COL\n17 -->
+<g id="node20" class="node">
+<title>TOK_TABLE_OR_COL\n17</title>
+<ellipse fill="none" stroke="red" cx="942.86" cy="-124.25" rx="111.88" ry="29.33"/>
+<text text-anchor="middle" x="942.86" y="-128.45" font-family="Times,serif" font-size="14.00" fill="blue">TOK_TABLE_OR_COL</text>
+<text text-anchor="middle" x="942.86" y="-111.65" font-family="Times,serif" font-size="14.00" fill="blue">17</text>
+</g>
+<!-- TOK_SELEXPR\n18&#45;&gt;TOK_TABLE_OR_COL\n17 -->
+<g id="edge20" class="edge">
+<title>TOK_SELEXPR\n18&#45;&gt;TOK_TABLE_OR_COL\n17</title>
+<path fill="none" stroke="black" d="M916.47,-189.72C919.9,-181.34 923.71,-172.03 927.34,-163.15"/>
+<polygon fill="black" stroke="black" points="930.64,-164.33 931.19,-153.75 924.17,-161.68 930.64,-164.33"/>
+</g>
+<!-- c\n16 -->
+<g id="node21" class="node">
+<title>c\n16</title>
+<ellipse fill="none" stroke="red" cx="942.86" cy="-29.42" rx="27" ry="29.33"/>
+<text text-anchor="middle" x="942.86" y="-33.62" font-family="Times,serif" font-size="14.00" fill="blue">c</text>
+<text text-anchor="middle" x="942.86" y="-16.82" font-family="Times,serif" font-size="14.00" fill="blue">16</text>
+</g>
+<!-- TOK_TABLE_OR_COL\n17&#45;&gt;c\n16 -->
+<g id="edge21" class="edge">
+<title>TOK_TABLE_OR_COL\n17&#45;&gt;c\n16</title>
+<path fill="none" stroke="black" d="M942.86,-94.64C942.86,-86.61 942.86,-77.74 942.86,-69.22"/>
+<polygon fill="black" stroke="black" points="946.36,-69.09 942.86,-59.09 939.36,-69.09 946.36,-69.09"/>
+</g>
+<!-- =\n23 -->
+<g id="node23" class="node">
+<title>=\n23</title>
+<ellipse fill="none" stroke="red" cx="1184.86" cy="-219.08" rx="27" ry="29.33"/>
+<text text-anchor="middle" x="1184.86" y="-223.28" font-family="Times,serif" font-size="14.00" fill="blue">=</text>
+<text text-anchor="middle" x="1184.86" y="-206.48" font-family="Times,serif" font-size="14.00" fill="blue">23</text>
+</g>
+<!-- TOK_WHERE\n24&#45;&gt;=\n23 -->
+<g id="edge22" class="edge">
+<title>TOK_WHERE\n24&#45;&gt;=\n23</title>
+<path fill="none" stroke="black" d="M1054.62,-289.96C1084.65,-273.85 1124.22,-252.62 1151.83,-237.8"/>
+<polygon fill="black" stroke="black" points="1153.54,-240.85 1160.7,-233.04 1150.23,-234.69 1153.54,-240.85"/>
+</g>
+<!-- TOK_TABLE_OR_COL\n21 -->
+<g id="node24" class="node">
+<title>TOK_TABLE_OR_COL\n21</title>
+<ellipse fill="none" stroke="red" cx="1184.86" cy="-124.25" rx="111.88" ry="29.33"/>
+<text text-anchor="middle" x="1184.86" y="-128.45" font-family="Times,serif" font-size="14.00" fill="blue">TOK_TABLE_OR_COL</text>
+<text text-anchor="middle" x="1184.86" y="-111.65" font-family="Times,serif" font-size="14.00" fill="blue">21</text>
+</g>
+<!-- =\n23&#45;&gt;TOK_TABLE_OR_COL\n21 -->
+<g id="edge23" class="edge">
+<title>=\n23&#45;&gt;TOK_TABLE_OR_COL\n21</title>
+<path fill="none" stroke="black" d="M1184.86,-189.47C1184.86,-181.44 1184.86,-172.57 1184.86,-164.06"/>
+<polygon fill="black" stroke="black" points="1188.36,-163.92 1184.86,-153.92 1181.36,-163.92 1188.36,-163.92"/>
+</g>
+<!-- 1\n22 -->
+<g id="node26" class="node">
+<title>1\n22</title>
+<ellipse fill="none" stroke="red" cx="1341.86" cy="-124.25" rx="27" ry="29.33"/>
+<text text-anchor="middle" x="1341.86" y="-128.45" font-family="Times,serif" font-size="14.00" fill="blue">1</text>
+<text text-anchor="middle" x="1341.86" y="-111.65" font-family="Times,serif" font-size="14.00" fill="blue">22</text>
+</g>
+<!-- =\n23&#45;&gt;1\n22 -->
+<g id="edge24" class="edge">
+<title>=\n23&#45;&gt;1\n22</title>
+<path fill="none" stroke="black" d="M1209.7,-206.48C1234.69,-194.44 1273.98,-174.49 1305.86,-153.66 1308.02,-152.25 1310.21,-150.74 1312.38,-149.19"/>
+<polygon fill="black" stroke="black" points="1314.71,-151.82 1320.63,-143.03 1310.52,-146.21 1314.71,-151.82"/>
+</g>
+<!-- a\n20 -->
+<g id="node25" class="node">
+<title>a\n20</title>
+<ellipse fill="none" stroke="red" cx="1184.86" cy="-29.42" rx="27" ry="29.33"/>
+<text text-anchor="middle" x="1184.86" y="-33.62" font-family="Times,serif" font-size="14.00" fill="blue">a</text>
+<text text-anchor="middle" x="1184.86" y="-16.82" font-family="Times,serif" font-size="14.00" fill="blue">20</text>
+</g>
+<!-- TOK_TABLE_OR_COL\n21&#45;&gt;a\n20 -->
+<g id="edge25" class="edge">
+<title>TOK_TABLE_OR_COL\n21&#45;&gt;a\n20</title>
+<path fill="none" stroke="black" d="M1184.86,-94.64C1184.86,-86.61 1184.86,-77.74 1184.86,-69.22"/>
+<polygon fill="black" stroke="black" points="1188.36,-69.09 1184.86,-59.09 1181.36,-69.09 1188.36,-69.09"/>
+</g>
+</g>
+</svg>
